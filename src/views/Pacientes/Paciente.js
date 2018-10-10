@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Card, CardBody, CardHeader, Col, Row, Table } from 'reactstrap';
 
-const pacientesData = []
+const pacientesData = ['1']
 
 class Paciente extends Component {
 
